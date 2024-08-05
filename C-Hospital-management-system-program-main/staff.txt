@@ -1,0 +1,6 @@
+
+Name = 
+Age 20
+Salary1234
+Working Position
+nurse

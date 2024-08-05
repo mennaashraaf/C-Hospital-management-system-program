@@ -1,0 +1,5 @@
+menna,saturday,20,22,3
+salma,2,3,4,2
+menna,22,22,22,1
+menna,22,2,2,1
+mahiud,u;12pm,20,5,1
